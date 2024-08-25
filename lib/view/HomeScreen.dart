@@ -79,7 +79,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   const Padding(
                     padding: EdgeInsets.only(left: 20, bottom: 20),
                     child: Text(
-                      'Highlight Paintings :',
+                      'Best Paintings :',
                       style: TextStyle(
                         color: Colors.grey,
                         fontSize: 20,
